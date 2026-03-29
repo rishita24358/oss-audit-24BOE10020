@@ -116,7 +116,7 @@ Demonstrates prompts, variables, and formatted output in Bash scripting.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/DhanashriDhatrak/oss-audit--24BAI10534-.git
+git clone https://github.com/rishita24358/oss-audit-24BOE10020.git
 cd oss-audit--24BAI10534-
 ```
 
